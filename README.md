@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/gsteckel20/gsteckel20/Git-gif.gif"/>]
+[<img src="https://raw.githubusercontent.com/gsteckel20/gsteckel20/master/Git-gif.gif"/>]
 <!--
 **gsteckel20/gsteckel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
