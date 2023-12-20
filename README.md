@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 ## :book: About me
 - 🖥 Software developer with bold ideas
-- 🎓 Studying computer science at the university of Georiga with a certifiate in machine learning, Graduating May 2025
-- 🌐
+- 🎓 Studying computer science at the University of Georiga with a certifiate in machine learning, Graduating May 2025
+- 🏒 Play club hockey at the University of Georgia
+- 🌎 Love to travel
 <!--
