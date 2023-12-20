@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :book: About me
+- 🖥 Software developer with bold ideas
+- 🎓 Studying computer science at the university of Georiga with a certifiate in machine learning, Graduating May 2025
+- 🌐 
